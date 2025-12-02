@@ -1,9 +1,5 @@
 # Kirs_Mikhail_AJAX_App
 
-This project is a dynamic product page for the Novo Earbuds. It uses SASS, the Fetch API, and the HTML template element to load data from an external API. The hotspots on the 3D model and the materials section are populated with JSON data on page load. A loading spinner and basic error handling were added for the AJAX requests. The page also includes a mobile layout where a static image is shown instead of the 3D model.
-
-# Kirs_Mikhail_AJAX_App
-
 ## Overview
 
 This project is a dynamic product page for the Novo Earbuds. It uses SASS, the Fetch API, and the HTML template element to load data from an external API. The hotspots on the 3D model and the materials section are populated with JSON data on page load. A loading spinner and basic error handling were added for the AJAX requests. The page also includes a mobile layout where a static image is shown instead of the 3D model.
@@ -28,6 +24,13 @@ This project is a dynamic product page for the Novo Earbuds. It uses SASS, the F
 - The materials section fills in automatically using data from the API.
 
 ## History
+
+- Added AJAX fetch for hotspots  
+- Added AJAX fetch for materials  
+- Added loading spinner  
+- Added error messages  
+- Updated layout for mobile
+- html, css, JavaScript
 
 ## Installation
 
